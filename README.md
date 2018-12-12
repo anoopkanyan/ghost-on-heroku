@@ -2,6 +2,13 @@
 
 Ghost is a free, open, simple blogging platform. Visit the project's website at <http://ghost.org>, or read the docs on <http://support.ghost.org>.
 
+Websites currently using Ghost:
+1. [thedailyink](https://www.thedailyink.com/)
+2. [couchtuner](https://www.couchtuner.ninja/)
+3. [cheap smm panel](https://cheapsmmpanel.co)
+4. [cheapest smm panel](https://yoyomedia.in/)
+
+
 ## Ghost version 1.X
 
 The latest release of Ghost is now supported! Changes include:
